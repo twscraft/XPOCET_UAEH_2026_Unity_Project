@@ -1,0 +1,37 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]ap_builds/
+/[Mm]emoryCaptures/
+/[Ll]ogs/
+/[Vv]endor/
+/[Uu]nityConfiguration/
+
+# Carpetas temporales y de compilación adicionales
+/[Aa]sset[Cc]leaner[Cc]ache/
+/[Aa]sset[Cc]heck[Cc]ache/
+/[Bb]uild[Cc]ache/
+
+# Archivos de soluciones de Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Reportes de crashes
+sysinfo.txt
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
