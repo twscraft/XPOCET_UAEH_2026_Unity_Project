@@ -21,6 +21,10 @@
    ## Avance del Proyecto
    - Imagenes de avance actualizadas 11/10/2026
 
+     <img width="720" height="1280" alt="imagen2" src="https://github.com/user-attachments/assets/b04f5f6f-e33f-46fa-be71-1473b2f2c509" />
+     <img width="1600" height="899" alt="avance1" src="https://github.com/user-attachments/assets/9392eab3-1c21-4336-aa7e-6706bb924c54" />
+
+
 ```text
  __  __           _                 _ _   _       _   _       _ _           _             _                                __ _   
 |  \/  | __ _  __| | ___  __      _(_) |_| |__   | | | |_ __ (_) |_ _   _  | |__  _   _  | |___      _____  ___ _ __ __ _ / _| |_ 
