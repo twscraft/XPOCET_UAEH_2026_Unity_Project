@@ -18,6 +18,9 @@
   - El proyecto contiene la integración de Unity con librerías para poder funcionar con electrónica digital (Como sensores y microcontroladores).
   - Funcionará a base de los guantes electrónicos, usarán sensores de fuerza, Giroscopio, Acelerómetro, etc. Para mandar señales al ESP32 DevKit V1 (módulo ESP32-WROOM-32) para que le mande señales a Unity y este las lea.
 
+   ## Avance del Proyecto
+   - Imagenes de avance actualizadas 11/10/2026
+
 ```text
  __  __           _                 _ _   _       _   _       _ _           _             _                                __ _   
 |  \/  | __ _  __| | ___  __      _(_) |_| |__   | | | |_ __ (_) |_ _   _  | |__  _   _  | |___      _____  ___ _ __ __ _ / _| |_ 
