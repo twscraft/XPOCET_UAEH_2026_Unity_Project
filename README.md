@@ -19,10 +19,11 @@
   - Funcionará a base de los guantes electrónicos, usarán sensores de fuerza, Giroscopio, Acelerómetro, etc. Para mandar señales al ESP32 DevKit V1 (módulo ESP32-WROOM-32) para que le mande señales a Unity y este las lea.
 
    ## Avance del Proyecto
-   - Imagenes de avance actualizadas 11/10/2026
+   - Imagenes de avance actualizadas 11/28/2026:
 
-     <img width="720" height="1280" alt="imagen2" src="https://github.com/user-attachments/assets/b04f5f6f-e33f-46fa-be71-1473b2f2c509" />
-     <img width="1600" height="899" alt="avance1" src="https://github.com/user-attachments/assets/9392eab3-1c21-4336-aa7e-6706bb924c54" />
+   <img width="1919" height="1034" alt="Screenshot 2026-10-28 003117" src="https://github.com/user-attachments/assets/a98a85b2-67cb-42d7-8c98-bc5650b7561f" />
+   <img width="1919" height="1027" alt="Screenshot 2026-10-28 003310" src="https://github.com/user-attachments/assets/c10106b6-3a87-49e3-a97b-8363fb227655" />
+
 
 
 ```text
