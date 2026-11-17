@@ -46,6 +46,20 @@
    <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234635" src="https://github.com/user-attachments/assets/14c63ade-104c-4183-af46-9e15064f9de5" />
    <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234640" src="https://github.com/user-attachments/assets/04bde929-7ada-4e32-8865-2e328755dd4d" />
    <img width="1919" height="1075" alt="Captura de pantalla 2026-11-16 234658" src="https://github.com/user-attachments/assets/305a209f-9302-4ebf-b1e5-25c8cbe44368" />
+
+   ## Galería de los guantes electrónicos:
+   - Integrantes del equipo.
+   <img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/78a1c0c3-54a4-4fcf-b919-cb8c2a5fb774" />
+
+   - Proyecto completo.
+   <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/75810d3a-76aa-487b-ad39-d1b595fcb603" />
+   <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a8bd620-b961-4114-9b03-0be716e1c3c1" />
+
+   - Guantes electrónicos (Hardware).
+   <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/3929bac6-10c6-4d22-b277-7f4e1f338069" />
+   <img width="964" height="1280" alt="image" src="https://github.com/user-attachments/assets/8cc938d0-ac6a-48fd-b5bc-39e097b8d62c" />
+   <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/0638b82f-1e8d-4f8d-b792-9202bd7923c4" />
+
    
    ## ENLACES DE DESCARGA:
    - v1.0.0 [Beta]
