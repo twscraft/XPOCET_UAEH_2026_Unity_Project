@@ -47,6 +47,18 @@
    <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234640" src="https://github.com/user-attachments/assets/04bde929-7ada-4e32-8865-2e328755dd4d" />
    <img width="1919" height="1075" alt="Captura de pantalla 2026-11-16 234658" src="https://github.com/user-attachments/assets/305a209f-9302-4ebf-b1e5-25c8cbe44368" />
    
+   ## ENLACES DE DESCARGA:
+   - v1.0.0 [Beta]
+
+<p align="center">
+  <a href="https://github.com/twscraft/XPOCET_UAEH_2026_Unity_Project/releases/download/v1.0.0/ManosAlVolante_Windows.zip">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" width="160" alt="Descargar para Windows">
+  </a>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="160" alt="Linux">
+
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" width="160" alt="macOS">
+</p>
 
 ```text
  __  __           _                 _ _   _       _   _       _ _           _             _                                __ _   
@@ -83,4 +95,4 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 
 <br>
 
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)(Assets/Images/BotonDescargar.png)](https://github.com/twscraft/XPOCET_UAEH_2026_Unity_Project/releases/latest/download/ManosAlVolante_Windows.zip)
