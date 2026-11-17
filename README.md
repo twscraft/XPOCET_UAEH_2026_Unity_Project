@@ -24,7 +24,7 @@
    
    ## Imágenes de avance actualizadas 11/10/2026:
    - Primer avance:
-     
+
    <img width="1919" height="1079" alt="Screenshot 2026-10-11 230402" src="https://github.com/user-attachments/assets/4f3c0b8a-3192-44b5-8a8a-99dcbea51f0b" />
    <img width="1278" height="1036" alt="Screenshot 2026-10-11 233929" src="https://github.com/user-attachments/assets/d897a33f-781c-4e81-95e1-f6be5b183adb" />
    <img width="1280" height="938" alt="Screenshot 2026-10-13 132951" src="https://github.com/user-attachments/assets/0057ba79-54ea-4bf7-b402-763b20c13bd2" />
@@ -39,6 +39,13 @@
 
    ## Imágenes del proyecto terminado 11/11/2026:
    - Último avance:
+
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234617" src="https://github.com/user-attachments/assets/fcde3768-e8a7-4184-aadc-39cbc6ca4ebd" />
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234622" src="https://github.com/user-attachments/assets/a9656887-6004-4960-828b-678dadf66139" />
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234628" src="https://github.com/user-attachments/assets/45ebeae0-1dc1-4520-8b2c-436e1b3f512e" />
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234635" src="https://github.com/user-attachments/assets/14c63ade-104c-4183-af46-9e15064f9de5" />
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-11-16 234640" src="https://github.com/user-attachments/assets/04bde929-7ada-4e32-8865-2e328755dd4d" />
+   <img width="1919" height="1075" alt="Captura de pantalla 2026-11-16 234658" src="https://github.com/user-attachments/assets/305a209f-9302-4ebf-b1e5-25c8cbe44368" />
    
 
 ```text
