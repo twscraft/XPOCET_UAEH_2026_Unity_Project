@@ -95,4 +95,4 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 
 <br>
 
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)(Assets/Images/BotonDescargar.png)](https://github.com/twscraft/XPOCET_UAEH_2026_Unity_Project/releases/latest/download/ManosAlVolante_Windows.zip)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
