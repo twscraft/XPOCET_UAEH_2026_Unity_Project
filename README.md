@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="XPOCET_UAEH" src="https://github.com/user-attachments/assets/152f0450-47f8-4553-a6a0-bc74b8daf2c1" />
 
-# Sobre el proyecto
+# Sobre el proyecto 
 
 > Este proyecto es fruto del trabajo en equipo para presentar ante la XPOCET de la UAEH, en ICBI. Creado por alumnos del la Lic. Ciencias Computacionales del tercer semestre.
 
