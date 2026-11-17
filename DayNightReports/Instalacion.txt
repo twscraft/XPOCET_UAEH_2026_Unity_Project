@@ -1,0 +1,2 @@
+Assets/Scenes/MainMenu.unity | controlador=1 | configuracion compartida | BOXOPHOBIC dia/noche | HDRP | sombras=250m
+Assets/Scenes/MainScene.unity | controlador=1 | configuracion compartida | BOXOPHOBIC dia/noche | HDRP | sombras=250m

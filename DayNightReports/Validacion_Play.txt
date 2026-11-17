@@ -1,0 +1,6 @@
+PASS
+Frames inspeccionados=2132
+Cambios dia/noche=2
+Maximo luces direccionales con sombras=1
+Prueba pausa y detener ciclo completada=True
+Configuracion original restaurada: dia=10 noche=8

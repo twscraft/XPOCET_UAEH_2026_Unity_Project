@@ -1,0 +1,11 @@
+CONFIGURED 16/11/2026 05:54:57 p. m. | Bajo/Medio/Alto | directional shadows 1024/2048/4096 | default Medio | backups C:\Users\Alejandro\Desktop\XPOCET_UAEH_2026_Unity_Project-main\QualityReports\Backup-20261116-175453
+CONFIGURED 16/11/2026 05:56:24 p. m. | Bajo/Medio/Alto | directional shadows 1024/2048/4096 | default Medio | backups C:\Users\Alejandro\Desktop\XPOCET_UAEH_2026_Unity_Project-main\QualityReports\Backup-20261116-175619
+BEGIN PLAY VALIDATION 16/11/2026 05:56:51 p. m.
+PASS MainMenu | Bajo | HDRP_Bajo | shadows 1024 | UI callback + PlayerPrefs + renderer OK
+PASS MainMenu | Medio | HDRP_Medio | shadows 2048 | UI callback + PlayerPrefs + renderer OK
+PASS MainMenu | Alto | HDRP_Alto | shadows 4096 | UI callback + PlayerPrefs + renderer OK
+PASS MainScene | Bajo | HDRP_Bajo | shadows 1024 | UI callback + PlayerPrefs + renderer OK
+PASS MainScene | Medio | HDRP_Medio | shadows 2048 | UI callback + PlayerPrefs + renderer OK
+PASS MainScene | Alto | HDRP_Alto | shadows 4096 | UI callback + PlayerPrefs + renderer OK
+PASS: both scenes and all three quality levels.
+PASS: second Play session restored Alto from PlayerPrefs; zero errors.
