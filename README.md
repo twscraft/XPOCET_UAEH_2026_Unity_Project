@@ -22,14 +22,24 @@
    <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/df48edb6-8add-4fda-931c-322fc934b8e7" />
    <img width="1584" height="396" alt="Banner2" src="https://github.com/user-attachments/assets/fd54ee49-53c6-4cd3-9b20-89fae5e63250" />
    
-   ## Avance del Proyecto
-   - Imagenes de avance actualizadas 11/28/2026:
+   ## Imágenes de avance actualizadas 11/10/2026:
+   - Primer avance:
+     
+   <img width="1919" height="1079" alt="Screenshot 2026-10-11 230402" src="https://github.com/user-attachments/assets/4f3c0b8a-3192-44b5-8a8a-99dcbea51f0b" />
+   <img width="1278" height="1036" alt="Screenshot 2026-10-11 233929" src="https://github.com/user-attachments/assets/d897a33f-781c-4e81-95e1-f6be5b183adb" />
+   <img width="1280" height="938" alt="Screenshot 2026-10-13 132951" src="https://github.com/user-attachments/assets/0057ba79-54ea-4bf7-b402-763b20c13bd2" />
+
+   
+   ## Imágenes de avance actualizadas 28/10/2026:
+   - Segundo avance:
 
    <img width="1919" height="1034" alt="Screenshot 2026-10-28 003117" src="https://github.com/user-attachments/assets/a98a85b2-67cb-42d7-8c98-bc5650b7561f" />
    <img width="1919" height="1027" alt="Screenshot 2026-10-28 003310" src="https://github.com/user-attachments/assets/c10106b6-3a87-49e3-a97b-8363fb227655" />
    <img width="1919" height="1031" alt="Screenshot 2026-10-28 003712" src="https://github.com/user-attachments/assets/6e1d43d0-e25d-476b-bd3a-c934f997813f" />
 
-
+   ## Imágenes del proyecto terminado 11/11/2026:
+   - Último avance:
+   
 
 ```text
  __  __           _                 _ _   _       _   _       _ _           _             _                                __ _   
